@@ -3,8 +3,9 @@ import requests
 
 API_HOST = "http://localhost:8000"
 RESOURCE_URI = "cookie_stands"
-USERNAME = "admin"
-PASSWORD = "admin"
+USERNAME = "layan"
+PASSWORD = "123456"
+"heroku deploy link" ="https://cookistand.herokuapp.com/"
 
 
 class ApiTester:
